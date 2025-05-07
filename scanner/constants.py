@@ -1,0 +1,1 @@
+FILTERS_DIR = "tiktok_manager/scanner/filters.txt"
